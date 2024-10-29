@@ -1,8 +1,8 @@
 app-id: org.zdoom.GZDoom
-runtime: org.kde.Platform
-runtime-version: "6.7"
-sdk: org.kde.Sdk
-command: gzdoom
+runtime: org.freedesktop.Platform
+sdk: org.freedesktop.Sdk
+runtime-version: '24.08'
+command: gzdoom.sh
 
 finish-args:
   - --device=dri
