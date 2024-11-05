@@ -1,3 +1,3 @@
-.flatpak-builder/
-build-dir/
-testing-repo/
+artifacts-repo
+artifacts-build-dir
+tree.html
