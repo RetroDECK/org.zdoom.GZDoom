@@ -13,4 +13,4 @@ jobs:
   build-project:
     uses: RetroDECK/components-template/.github/workflows/build_artifacts.yml@main
     with:
-        MANIFEST_FILENAME: "put.something.else.yaml"
+        MANIFEST_FILENAME: "org.zdoom.GZDoom.yaml"
